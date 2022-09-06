@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://github.com/xuedashuai99/xuedashuai99.github.hh.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Sep 2022 21:58:09 +0800</lastBuildDate><atom:link href="https://github.com/xuedashuai99/xuedashuai99.github.hh.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://github.com/xuedashuai99/xuedashuai99.github.hh.io/post/blog/</link>
+      <pubDate>Tue, 06 Sep 2022 21:58:09 +0800</pubDate>
+      
+      <guid>https://github.com/xuedashuai99/xuedashuai99.github.hh.io/post/blog/</guid>
+      <description>VS���ز������Ľ��������� �����Ķ� 2019-10-03 12:22:37 ����������VS����չ������ʱ���������ٶȿ�������(172kb)������ �������⣬���������� 1 �������ӡ�����ping���⡣http://ping.chinaz.com/download.visualstudio.microsoft.com
+2ѡ����Ӧʱ��������IP(ѡ���ڵ�)
+3����CMD ���롰ping �ղ���ѡ��ip��ַ���� (��ʽ ping xxx.xxx.xxx.xxx )�س�
+4����������ͨ (���ǳ��� ���� xxxip��ַ�Ļظ�:xxx ����)��ѡ����IP��ַ�����������ӳ�ʱ������ѡһ����
+5�ü��±�����C: &amp;gt; Windows &amp;gt; System32 &amp;gt; drivers &amp;gt; etc &amp;gt; hosts.
+6����ĩһ�м���: �ղ���ѡ��ip��ַ �ո� download.visualstudio.microsoft.com (������IP��ַǰ���롰#��)
+7���޸ĺõ��ļ�����Ϊ.txt�������ϡ�
+8�������ϱ����õ��ļ�������ȥ������.txt
+9���ƴ��ļ�ճ����ԭ����·�����滻��ԭ�����ļ���
+��չ: �е�����˵ȥ��IPv6��Ҳ���Լӿ������ٶȡ� �����ҵıʼǱ����У����ԾͲ����������ķ����� ϣ���ܽ����������⡣
+�ο�����: https://blog.csdn.net/qq_41684261/article/details/82846955?utm_source=app</description>
+    </item>
+    
+  </channel>
+</rss>
